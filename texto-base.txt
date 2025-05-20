@@ -1,0 +1,8 @@
+main {
+    int 1numero = 10;        
+    float pi = 3.14.15;      
+    char letra = 'AB';       
+    if (x ! y) {             
+        @x = x + 1;         
+    }
+}
